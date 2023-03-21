@@ -83,7 +83,7 @@
         "birthday": "1985-10-20",
     },
 ],
- "groups" = [
+ "groups" :[
     {
         "group_id": 1,
     },
